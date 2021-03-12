@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bekashvelidze
-- 👀 I’m interested in Python development, bash scripting and music ... :)) 
+- 👀 I’m interested in Python programming, bash scripting and music ... :)) 
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Python projects.
 - 📫 You can reach me by email.
